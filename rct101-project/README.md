@@ -1,6 +1,6 @@
 # Project Link
 ```
-https://profound-florentine-71114c.netlify.app/price&menu
+https://profound-florentine-71114c.netlify.app
 ```
 
 

@@ -41,7 +41,7 @@ If you want to run project in your local machine
 
 - Clone respository
 - Open code in VS code
-- Run comman `npm install` 
+- Run command `npm install` 
 - Initialize the server by writing `npm start` on Terminal
 
 ## Creator

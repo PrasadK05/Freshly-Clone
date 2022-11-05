@@ -21,7 +21,7 @@ Freshly is a New York-based prepared meal delivery company that delivers through
 
 
 
-## Featuress
+## Features
 
 - Signup Page
 

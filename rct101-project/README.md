@@ -5,7 +5,7 @@ Freshly is a New York-based prepared meal delivery company that delivers through
 
 ## Demo
 
-[Freshly](https://profound-florentine-71114c.netlify.app)
+[Freshly](https://astounding-cheesecake-d26411.netlify.app)
 
 
 ## Tech Stack

@@ -24,7 +24,7 @@ export default function CartContextProvider({ children }) {
   let getData = (val) => {
     setLoading(false)
     axios
-      .get("https://safe-beach-98644.herokuapp.com/" + val)
+      .get("https://freshly-backend.onrender.com/" + val)
       .then((res) => setFoods(res.data))
       .catch((error) => console.log(error));
       setLoading(true)

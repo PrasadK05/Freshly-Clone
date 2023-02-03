@@ -15,7 +15,7 @@ Freshly is a New York-based prepared meal delivery company that delivers through
 - React-Router
 - Axios
 - Json-Server
-- Heroku
+- Render
 - GitHub
 
 

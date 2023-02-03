@@ -42,10 +42,10 @@ Freshly is a New York-based prepared meal delivery company that delivers through
 ![payment](https://i.postimg.cc/CxVmXZM8/Fiter.png)
 
 - Add-To-Cart Functionality
-![payment](https://i.postimg.cc/Dw4pPrj1/Add-To-Cart.png)
+![Add-To-Cart](https://www.linkpicture.com/q/Add-To-Cart.png)
 
 - Payment Page
-![payment]
+![Payment-Page.png](https://www.linkpicture.com/q/Payment-Page.png)
 
 
 ## Execution
